@@ -4,4 +4,4 @@
 
 Curso de programação voltado para a análise de dados biológicos
 
-O material apresentado aqui foi inspirado pelo repositório [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp).
+O material apresentado aqui foi inspirado pelo repositório [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) e pelos [tutoriais da w3schools.com](https://www.w3schools.com/python/).
