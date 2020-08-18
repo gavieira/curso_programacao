@@ -1,0 +1,4 @@
+Olá!
+Esse é um arquivo de texto para o curso de programação em Python.
+Ele tem só algumas linhas.
+Que vão ser mostradas na aula sobre manipulação de arquivos.
