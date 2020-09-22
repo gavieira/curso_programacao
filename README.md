@@ -17,7 +17,9 @@ Para fazer modificações no material do curso/resolver os exercícios:
 
 ----
 
-O material apresentado aqui foi inspirado pelo repositório [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) e pelos [tutoriais da w3schools.com](https://www.w3schools.com/python/).
+Esse curso também conta com algumas video-aulas arquivadas no [Zenodo](https://doi.org/10.5281/zenodo.4043983), onde elas podem ser baixadas.
+
+O material apresentado aqui foi inspirado pelo repositório [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) e pelos [tutoriais da w3schools.com](https://www.w3schools.com/python/). Vários dos exercícios foram traduzidos do site [w3resource](https://www.w3resource.com/python-exercises/).
 
 Sugestões de cursos online:
   - [Introdução à Ciência da Computação com Python - Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
